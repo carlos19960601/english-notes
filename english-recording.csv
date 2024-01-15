@@ -10,6 +10,10 @@ fraudulent,
 intuition,
 neural,
 hastily,
-trivial,,,"Since the problem is not trivial, your program will likely become a long list of com‐ plex rules—pretty hard to maintain."
+trivial,having little value or importance,"微不足道的，琐碎的；没有价值的","Since the problem is not trivial, your program will likely become a long list of com‐ plex rules—pretty hard to maintain."
 supervision,"the act of watching a person or activity and making certain that everything is done correctly, safely, etc.","监督，管理，指导","Whether or not they are trained with human supervision"
 criterion|criteria,"a standard by which you judge, decide about, or deal with something","（作出评判、决定或处理的）标准，准则","These criteria are not exclusive"
+inertia,"lack of activity or interest, or unwillingness to make an effort to do anything","缺乏活力，惰性","Conversely, if you set a low learning rate, the system will have more inertia"
+malfunction,"to fail to work or operate correctly","运转不正常，发生故障","Bad data could come from a malfunctioning sensor on a robot"
+anomaly,"a person or thing that is different from what is usual, or not in agreement with something else and therefore not satisfactory","异常的人（或事物）；不规则；（同一种类中的）畸形","using an anomaly detection algorithm"
+insufficient,not enough,"不够的，不足的；不充分的",
